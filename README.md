@@ -1,6 +1,6 @@
 # Linguagem C
 
-[Estrutura Básica](#estrutura-básica) | [Variáveis e Especificadores](#variáveis-e-especificadores) | [Operadores Aritméticos](#operadores-aritméticos)
+[Estrutura Básica](#estrutura-básica) | [Variáveis e Especificadores](#variáveis-e-especificadores) | [Operadores Aritméticos](#operadores-aritméticos) | [Operadores de Atribuição](#operadores-de-atribuição)
 
 ## Estrutura Básica
 ![Imagem explicando Estrutura Básica em C](images/00-estrutura-basica.png)
@@ -10,3 +10,6 @@
 
 ## Operadores Aritméticos
 ![Imagem explicando Operadores Aritméticos em C](images/02-operadores-aritmeticos.png)
+
+## Operadores de Atribuição
+![Imagem explicando Operadores de Atribuição em C](images/03-operadores-atribuicao.png)
