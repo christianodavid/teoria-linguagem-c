@@ -1,6 +1,6 @@
 # Linguagem C
 
-[Estrutura Básica](#estrutura-básica) | [Variáveis e Especificadores](#variáveis-e-especificadores) | [Operadores Aritméticos](#operadores-aritméticos) | [Operadores de Atribuição](#operadores-de-atribuição) | [Lista de Exercícios 001](#lista-de-exercícios-001)
+[Estrutura Básica](#estrutura-básica) | [Variáveis e Especificadores](#variáveis-e-especificadores) | [Operadores Aritméticos](#operadores-aritméticos) | [Operadores de Atribuição](#operadores-de-atribuição) | [Lista de Exercícios 001](#lista-de-exercícios-001) | [Operadores de Comparação](#operadores-de-comparação)
 
 ## Estrutura Básica
 ![Imagem explicando Estrutura Básica em C](images/00-estrutura-basica.png)
@@ -16,3 +16,6 @@
 
 ## Lista de Exercícios 001
 [Estrutura Sequencial em C](https://github.com/christianodavid/estrutura-sequencial-c)
+
+## Operadores de Comparação
+![Imagem explicando Operadores de Comparação em C](images/04-operadores-comparacao.png)
