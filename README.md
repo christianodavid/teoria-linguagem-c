@@ -1,6 +1,6 @@
 # Linguagem C
 
-[Estrutura Básica](#estrutura-básica) | [Variáveis e Especificadores](#variáveis-e-especificadores) | [Operadores Aritméticos](#operadores-aritméticos) | [Operadores de Atribuição](#operadores-de-atribuição) | [Lista de Exercícios 001](#lista-de-exercícios-001) | [Operadores de Comparação](#operadores-de-comparação) | [Operadores Lógicos](#operadores-lógicos) | [Estruturas Condicionais: if - else if - else](#estruturas-condicionais-if---else-if---else)
+[Estrutura Básica](#estrutura-básica) | [Variáveis e Especificadores](#variáveis-e-especificadores) | [Operadores Aritméticos](#operadores-aritméticos) | [Operadores de Atribuição](#operadores-de-atribuição) | [Lista de Exercícios 001](#lista-de-exercícios-001) | [Operadores de Comparação](#operadores-de-comparação) | [Operadores Lógicos](#operadores-lógicos) | [Estruturas Condicionais: if - else if - else](#estruturas-condicionais-if---else-if---else) | [Estruturas Condicionais: switch - case](#estruturas-condicionais-switch---case)
 
 ## Estrutura Básica
 ![Imagem explicando Estrutura Básica em C](images/00-estrutura-basica.png)
