@@ -25,3 +25,6 @@
 
 ## Estruturas Condicionais: if - else if - else
 ![Imagem explicando Estruturas Condicionais if - else if - else em C](images/06-condicionais-if-else.png)
+
+## Estruturas Condicionais: switch - case
+![Imagem explicando Estruturas Condicionais switch - case em C](images/07-condicionais-switch-case.png)
