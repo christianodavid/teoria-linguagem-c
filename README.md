@@ -34,3 +34,6 @@
 
 ## Loops: while
 ![Imagem explicando Loops while em C](images/08-loops-while.png)
+
+## Loops: do - while
+![Imagem explicando Loops do while em C](images/09-loops-do-while.png)
