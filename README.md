@@ -31,3 +31,6 @@
 
 ## Lista de Exercícios 002
 [Estruturas de Decisão em C](https://github.com/christianodavid/estruturas-decisao-c)
+
+## Loops: while
+![Imagem explicando Loops while em C](images/08-loops-while.png)
